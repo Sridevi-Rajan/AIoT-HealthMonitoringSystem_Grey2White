@@ -132,6 +132,9 @@ To demonstrate feasibility within hackathon constraints, the system is implement
 
 The simulation demonstrates edge-based AI decision logic and intent inference, focusing on system behaviour rather than medical-grade signal accuracy.
 
+## Wokwi Simulation link
+https://wokwi.com/projects/451761882501678081
+
 ## To Run the Simulation
 1. Open the Wokwi project link
 2. Start the simulation.
